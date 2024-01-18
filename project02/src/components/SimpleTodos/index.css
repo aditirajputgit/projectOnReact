@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.Container {
+    background-color: #ffc2a0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .container1 {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+  }
+  .list-style {
+    list-style-type: none;
+    padding: 0;
+  }
+  

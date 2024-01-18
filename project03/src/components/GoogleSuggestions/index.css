@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1.5rem;
+  }
+  
+  .image {
+    height: 12rem;
+  }
+  .container2 {
+    border: 1px solid rgb(190, 168, 168);
+    box-shadow: antiquewhite;
+    border-radius: 1rem;
+    padding: 2rem;
+    width: 30rem;
+    margin-top: 16px;
+  }
+  
+  .list-style {
+    list-style-type: none;
+  }
+  .searchContainer {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+  }
+  
+  .searchImg {
+    height: 28px;
+  }
+  .search {
+    flex-grow: 1;
+    border: none;
+  }
+  

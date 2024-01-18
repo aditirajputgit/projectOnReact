@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-style {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .profile-pic {
+    width: 250px;
+    height: 200px;
+  }
+  
+  .container {
+    height: 250px;
+    width: 250px;
+    padding: 1rem;
+    text-align: center;
+    margin: 1rem;
+  }
+  

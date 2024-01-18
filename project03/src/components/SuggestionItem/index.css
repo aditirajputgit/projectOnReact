@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.container3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.2rem;
+    flex-direction: row;
+  }
+  
+  .arrow-icon {
+    height: 28px;
+  }
+  
