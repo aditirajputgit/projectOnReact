@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-color: skyblue;
+    height: 100vh;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    padding: 1rem;
+}
